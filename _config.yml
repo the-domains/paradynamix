@@ -1,0 +1,28 @@
+name: Paradynamix
+favicon: null
+layout_spectrum: 0.32456367486156523
+typography_spectrum: 0.7805877909995615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6034869495779276
+  lightness: 0.7010118970647454
+  saturation: 0.6148752614390105
+  rhythmicContrast: 0.6814242161344737
+purpose: []
